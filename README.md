@@ -1,8 +1,7 @@
-- HTML5
-- CSS3
+- HTML5 & CSS3
 - Javascript/Typescript
 - PHP
-- Angular/React/Vue
+- Angular/React/Vue.js
 - Docker
 
 
